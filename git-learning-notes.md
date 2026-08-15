@@ -779,7 +779,7 @@ Password authentication is not supported for Git operations.
 生成 SSH key：
 
 ```fish
-ssh-keygen -t ed25519 -C "1092863528@qq.com"
+ssh-keygen -t ed25519 -C "xxx@xx.com"
 ```
 
 生成：
