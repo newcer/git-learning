@@ -1,4 +1,4 @@
-Hello Git
+Hello from Main
 Learning Git is fun
 I am learning Git
 Hello from feature branch
